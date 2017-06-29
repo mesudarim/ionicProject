@@ -2,6 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { IonicPage } from 'ionic-angular';
 import { MapComponent } from '../../components/map/map';
 
+
 /**
  * Generated class for the AroundPage page.
  *

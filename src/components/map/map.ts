@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import {} from '@types/googlemaps';
 
 /**
  * Generated class for the MapComponent component.
